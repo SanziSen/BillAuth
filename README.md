@@ -3,7 +3,7 @@ BillAuth is a Bill Authentication Tool used to have a check on the authenticity 
 
 BillAuth uses the Machine Learning Model of a Decision Tree to uniquely identify whether the bill for whom data is provided is authentic or not when trained using the previous necessary data, furthermore the model for Logistic Regression is also used to compare the models for more accuracy.
 
-##Files Provided## :
+## Files Provided : ##
        1- code.py : Python source code file containing the source code for the machine learning model to execute.
        2- code.ipynb : Jupyter Python Notebook containing the source code alongwith the necessary output when the preferred model is executed. 
        3- bill_authentic.csv : A CSV file containing the data required for training the machine learning model and to test the model usng the predicted data (Simply, a CSV file containing the necessary data for the model).
